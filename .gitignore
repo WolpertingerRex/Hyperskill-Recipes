@@ -1,0 +1,35 @@
+# Project exclude paths
+/.gradle/
+/Recipes/task/build/
+/Recipes/task/out/
+/Recipes/task/out/production/classes/
+/Topics/Comparing dates and time/Don't be late again/out/
+/Topics/Comparing dates and time/Don't be late again/out/production/classes/
+/Topics/Comparing dates and time/Find the latest date-time/out/
+/Topics/Comparing dates and time/Find the latest date-time/out/production/classes/
+/Topics/Comparing dates and time/How many date-time pairs match the range/out/
+/Topics/Comparing dates and time/How many date-time pairs match the range/out/production/classes/
+/Topics/Comparing dates and time/The intersection of time ranges/out/
+/Topics/Comparing dates and time/The intersection of time ranges/out/production/classes/
+/Topics/Generic methods/Invert an array/out/
+/Topics/Generic methods/Invert an array/out/production/classes/
+/Topics/Generic methods/Print content/out/
+/Topics/Generic methods/Print content/out/production/classes/
+/Topics/LocalDate/Convert numbers to days/out/
+/Topics/LocalDate/Convert numbers to days/out/production/classes/
+/Topics/LocalDate/Getting information on a day/out/
+/Topics/LocalDate/Getting information on a day/out/production/classes/
+/Topics/LocalDate/The last day of a month/out/
+/Topics/LocalDate/The last day of a month/out/production/classes/
+/Topics/LocalDateTime/Add days and subtract hours/out/
+/Topics/LocalDateTime/Add days and subtract hours/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalDateTime/Merging date-time instances/out/
+/Topics/LocalDateTime/Merging date-time instances/out/production/classes/
+/Topics/LocalDateTime/Whole hours between two date-time pairs/out/
+/Topics/LocalDateTime/Whole hours between two date-time pairs/out/production/classes/
+/Topics/LocalTime/Seconds since start of a day/out/
+/Topics/LocalTime/Seconds since start of a day/out/production/classes/
+/Topics/LocalTime/Some hours and minutes ago/out/
+/Topics/LocalTime/Some hours and minutes ago/out/production/classes/
